@@ -50,3 +50,5 @@ Identifying anomalous patterns in system and network logs.
 
 All datasets used are publicly available benchmarks intended for research and educational purposes.
 
+---
+*Documentation structured and formatted with the assistance of generative AI.*
