@@ -45,10 +45,4 @@ Identifying anomalous patterns in system and network logs.
 - Bridge the gap between offensive/defensive security and AI
 
 ---
-
-## Disclaimer
-
-All datasets used are publicly available benchmarks intended for research and educational purposes.
-
----
 *Documentation structured and formatted with the assistance of generative AI.*
