@@ -33,7 +33,7 @@ Identifying anomalous patterns in system and network logs.
 - **Google Colab** — training environment
 - **scikit-learn** — preprocessing, evaluation metrics
 - **pandas** — data loading and manipulation
-- **matplotlib / seaborn** — visualization
+- **matplotlib** — visualization
 
 ---
 
