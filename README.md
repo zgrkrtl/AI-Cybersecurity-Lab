@@ -19,7 +19,7 @@ Classifying malware samples using static and behavioral features.
 
 | # | Experiment | Dataset | Model | Accuracy |
 |---|-----------|---------|-------|----------|
-| 01 | [Feedforwared-Neural Netowrk](./Malware Classification) | EMBER | Feedforward NN | 87% |
+| 01 | [Feedforwared-Neural Netowrk](./Malware-Classification) | EMBER | Feedforward NN | 87% |
 
 ### Log Anomaly Detection
 Identifying anomalous patterns in system and network logs.
