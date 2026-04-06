@@ -12,13 +12,14 @@ Detecting malicious network traffic using machine learning.
 | # | Experiment | Dataset | Model | Accuracy |
 |---|-----------|---------|-------|----------|
 | 01 | [Feedforward Neural Network](./network-intrusion-detection/01-nsl-kdd-feedforward/) | NSL-KDD | Feedforward NN | 92% |
-| 02 | Malware Classification | - | - | — |
+
 
 ### Malware Classification
 Classifying malware samples using static and behavioral features.
 
 | # | Experiment | Dataset | Model | Accuracy |
 |---|-----------|---------|-------|----------|
+| 01 | [Feedforwared-Neural Netowrk](./malware-classification/) | EMBER | Feedforward NN | 87% |
 
 ### Log Anomaly Detection
 Identifying anomalous patterns in system and network logs.
