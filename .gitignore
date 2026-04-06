@@ -1,0 +1,10 @@
+venv/
+*.json
+*.jsonl
+*.txt
+*.csv
+*.bz2
+*.tar
+data/
+__pycache__/
+*.pyc
